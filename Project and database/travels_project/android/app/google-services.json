@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859091025587",
+    "project_id": "myflutterfirebase-40dd2",
+    "storage_bucket": "myflutterfirebase-40dd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859091025587:android:e7876563dac1ddf6e23ac6",
+        "android_client_info": {
+          "package_name": "com.example.travels_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859091025587-vgbftcoj0b6rai405mvkks4srkvq9hef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzcFKsetPlonbaZd-sIQ37b1S1qnRc2xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859091025587-vgbftcoj0b6rai405mvkks4srkvq9hef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

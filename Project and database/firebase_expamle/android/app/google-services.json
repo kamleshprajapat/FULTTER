@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826822772899",
+    "project_id": "fir-expamle-15faf",
+    "storage_bucket": "fir-expamle-15faf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826822772899:android:34d9dbb509b19c0f7f5716",
+        "android_client_info": {
+          "package_name": "com.example.firebase_expamle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826822772899-oes10iubj4eoiao8q501997pepd7t10d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGYBeb0KBEiYkNY1APpRN471IM4XG2fo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826822772899-oes10iubj4eoiao8q501997pepd7t10d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
