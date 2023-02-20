@@ -1,4 +1,4 @@
-import 'package:travels_project/Trivels_file/History_story.dart/Hotels/Components/data.dart';
+import 'package:travels_project/History_story.dart/Hotels/Components/data.dart';
 
 class DataHome {
   List<Data> getData = [

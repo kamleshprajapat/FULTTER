@@ -1,7 +1,7 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
-import 'package:travels_project/Trivels_file/History_story.dart/History_image.dart';
-import 'package:travels_project/Trivels_file/History_story.dart/Hotels/Hotels.dart';
+import 'package:travels_project/History_story.dart/History_image.dart';
+import 'package:travels_project/History_story.dart/Hotels/Hotels.dart';
 
 class trivels extends StatefulWidget {
   const trivels({super.key});

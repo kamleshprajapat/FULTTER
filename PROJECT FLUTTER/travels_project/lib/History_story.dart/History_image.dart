@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:travels_project/Trivels_file/History_story.dart/history/Alwar.dart';
-import 'package:travels_project/Trivels_file/History_story.dart/history/Jodpur.dart';
-import 'package:travels_project/Trivels_file/History_story.dart/history/Mount_abu.dart';
-import 'package:travels_project/Trivels_file/History_story.dart/history/Udaipur.dart';
-import 'package:travels_project/Trivels_file/History_story.dart/history/jaipur.dart';
-import 'package:travels_project/Trivels_file/History_story.dart/history/jaisalmer.dart';
+import 'package:travels_project/History_story.dart/history/Alwar.dart';
+import 'package:travels_project/History_story.dart/history/Jodpur.dart';
+import 'package:travels_project/History_story.dart/history/Mount_abu.dart';
+import 'package:travels_project/History_story.dart/history/Udaipur.dart';
+import 'package:travels_project/History_story.dart/history/jaipur.dart';
+import 'package:travels_project/History_story.dart/history/jaisalmer.dart';
 
 class Histry_Image extends StatefulWidget {
   const Histry_Image({super.key});

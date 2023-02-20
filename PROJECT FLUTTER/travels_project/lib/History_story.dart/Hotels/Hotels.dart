@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:travels_project/Trivels_file/History_story.dart/Hotels/Components/Data_home.dart';
-import 'package:travels_project/Trivels_file/History_story.dart/Hotels/Components/Hotel_details.dart';
-import 'package:travels_project/Trivels_file/History_story.dart/Hotels/Components/data.dart';
-import 'package:travels_project/Trivels_file/History_story.dart/Hotels/Components/travelcard.dart';
+import 'package:travels_project/History_story.dart/Hotels/Components/Data_home.dart';
+import 'package:travels_project/History_story.dart/Hotels/Components/Hotel_details.dart';
+
+import 'Components/travelcard.dart';
 
 enum MenuSelection {
   menu1,
