@@ -100,7 +100,8 @@ class _MyApiDataState extends State<MyApiData> {
                 return CircularProgressIndicator();
               },
             ),
-          )),
+          )
+          ),
     );
   }
 }

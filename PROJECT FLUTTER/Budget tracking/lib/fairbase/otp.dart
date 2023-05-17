@@ -153,3 +153,44 @@ class _MyWidgetState extends State<MyOtp> {
     );
   }
 }
+
+getClockInData() async {
+    // Timer(const Duration(milliseconds: 20), () {
+    //   progress = ProgressHUD.of(ctxProgressSS);
+    //   progress.show();
+    //
+    //   Timer(const Duration(seconds: 5), () {
+    //     progress.dismiss();
+    //   });
+    // });
+    http.Response response = await http.get(
+        Uri.parse(AppConstants.BASE_URL + AppConstants.CLOCKIN_URI),
+        headers: {
+          "Content-Type": "Application/json",
+          'Authorization': 'Bearer $token',
+        });
+    print("getService BaseURL===> ${AppConstants.BASE_URL +
+        AppConstants.CLOCKIN_URI}");
+    // var listCust = json.decode(response.body ?? "") as List;
+    var responseJson = jsonDecode(response.body);
+    print("clockInJsn=----->$responseJson");
+
+    clockInModel = ClockInModel.fromJson(responseJson);
+
+    String? message = clockInModel?.message.toString();
+
+
+    Util.showToast(message!);
+
+
+
+
+    try {
+      // progress.dismiss();
+    } catch (e) {
+      print("=-=->" + e.toString());
+    }
+    // startTime();
+    // print('getService===>$listCust');
+    setState(() {});
+  }

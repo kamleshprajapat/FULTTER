@@ -19,7 +19,6 @@ class _BudgetState extends State<Budget> {
   var monthValidator = false;
   var amountValidator = false;
   var formattedDate;
-
   var myservices = MyServices();
 
   @override
