@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31222767-00fd-4566-bf91-04c0ac3af5bf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ASSIMENT MODULE 2/project/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIMENT MODULE 2/project/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASSIMENT MODULE 3/screen/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ASSIMENT MODULE 3/screen/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/food_delevery_app/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/food_delevery_app/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/sp/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATA BASE/data_base/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../DATA BASE/data_base/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT FLUTTER/Budget tracking/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../PROJECT FLUTTER/Budget tracking/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT FLUTTER/Budget tracking/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../PROJECT FLUTTER/Budget tracking/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT FLUTTER/Budget tracking/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../PROJECT FLUTTER/Budget tracking/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT FLUTTER/Budget tracking/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/../PROJECT FLUTTER/Budget tracking/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT FLUTTER/Budget tracking/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../PROJECT FLUTTER/Budget tracking/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT FLUTTER/aapppii/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../PROJECT FLUTTER/aapppii/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT FLUTTER/animation/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../PROJECT FLUTTER/animation/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT FLUTTER/api/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../PROJECT FLUTTER/api/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT FLUTTER/api_resipe/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../PROJECT FLUTTER/api_resipe/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT FLUTTER/drower_file/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../PROJECT FLUTTER/drower_file/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT FLUTTER/firebase_expamle/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../PROJECT FLUTTER/firebase_expamle/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT FLUTTER/game_image/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../PROJECT FLUTTER/game_image/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT FLUTTER/game_image/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../PROJECT FLUTTER/game_image/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT FLUTTER/login_page/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../PROJECT FLUTTER/login_page/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT FLUTTER/travels_project/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../PROJECT FLUTTER/travels_project/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT FLUTTER/travels_project/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../PROJECT FLUTTER/travels_project/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT FLUTTER/travels_project/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../PROJECT FLUTTER/travels_project/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT FLUTTER/travels_project/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/../PROJECT FLUTTER/travels_project/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT FLUTTER/travels_project/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../PROJECT FLUTTER/travels_project/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/application/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/application/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/application1/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/application1/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/button/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/button/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/drower/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/drower/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/file/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/file/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/game/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/game/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/game_desion/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/game_desion/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/image_set/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/image_set/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/kaaaea/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/kaaaea/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/login/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/login/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/loginpag/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/loginpag/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/myapp/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/myapp/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/newapp/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/newapp/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/pizza/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/pizza/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/pizza1/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/pizza1/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/pizzaproject/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/pizzaproject/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/pp/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/pp/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/pp1/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/pp1/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/pp10/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/pp10/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/pp11/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/pp11/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/pp12/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/pp12/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/pp13/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/pp13/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/pp14/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/pp14/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/pp15/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/pp15/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/pp16/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/pp16/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/pp17/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/pp17/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/pp18/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/pp18/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/pp19/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/pp19/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/pp2/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/pp2/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/pp3/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/pp3/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/pp4/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/pp4/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/pp5/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/pp5/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/pp6/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/pp6/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/pp7/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/pp7/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/pp8/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/pp8/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/pp9/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/pp9/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/project/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/project/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/project01/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/project01/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/recipes/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/recipes/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter task/tabbar/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter task/tabbar/pubspec.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QgH48HIspxvv1rdCgFbBREU95V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Documents/F_app" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31222767-00fd-4566-bf91-04c0ac3af5bf" name="Changes" comment="" />
+      <created>1685768112933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685768112933</updated>
+    </task>
+    <servers />
+  </component>
+</project>

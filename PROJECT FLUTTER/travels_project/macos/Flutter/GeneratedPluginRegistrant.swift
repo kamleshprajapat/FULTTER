@@ -7,7 +7,7 @@ import Foundation
 
 import cloud_firestore
 import firebase_core
-import path_provider_macos
+import path_provider_foundation
 import speech_to_text_macos
 
 func RegisterGeneratedPlugins(registry: FlutterPluginRegistry) {
